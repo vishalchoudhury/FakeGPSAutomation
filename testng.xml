@@ -1,0 +1,7 @@
+<suite name="Harman Spark Automation Test" >
+	<test name="Login" >
+		<classes>
+			<class name="Framework.StartTest" />
+		</classes>
+	</test>
+</suite>
