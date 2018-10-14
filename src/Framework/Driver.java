@@ -14,10 +14,11 @@ public class Driver {
 	public static AndroidDriver setDriver(AndroidDriver driver,Logger log, Logger OutLogger, DesiredCapabilities capabilities) {
 		
 		OutLogger.info("Setting Up the Driver");
+		log.info("Setting up the driver");
 		
-		capabilities.setCapability("deviceName", "Nexus 6");
+		capabilities.setCapability("deviceName", "Huawei P20 Lite");
 		capabilities.setCapability(CapabilityType.PLATFORM, "Android");
-		capabilities.setCapability("platformVersion", "7.1.1");
+		capabilities.setCapability("platformVersion", "8.0.0");
 		capabilities.setCapability("platformName", "Android");
 		capabilities.setCapability(AndroidMobileCapabilityType.ENABLE_PERFORMANCE_LOGGING,true);
 		capabilities.setCapability("autoGrantPermissions", true);
@@ -32,6 +33,8 @@ public class Driver {
 			e.printStackTrace();
 			OutLogger.info("Driver Failure");
 		}
+		OutLogger.info("Going to Launch the driver");
+		log.info("Driver Launched successfully");
 		driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
 		return driver;
 	}
