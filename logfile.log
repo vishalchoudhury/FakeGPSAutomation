@@ -1,10 +1,334 @@
-2018-10-15 00:36:43,358 INFO  [Logger] Setting up the log file 
-2018-10-15 00:36:43,363 INFO  [Logger] Setting up the driver 
-2018-10-15 00:36:43,364 INFO  [OutLogger] Setting Up the Driver 
-2018-10-15 00:36:43,366 INFO  [Logger] Setting up the driver 
-2018-10-15 00:37:09,471 INFO  [OutLogger] Going to Launch the driver 
-2018-10-15 00:37:09,471 INFO  [Logger] Driver Launched successfully 
-2018-10-15 00:37:09,495 INFO  [Logger] Setting up the environment 
-2018-10-15 00:37:09,497 INFO  [Logger] Setting prod Environment as a default environment 
-2018-10-15 00:37:10,204 INFO  [Logger] Choosing the env prod 
-2018-10-15 00:40:27,714 INFO  [Logger] Going to closedown 
+2018-11-23 23:37:48,199 INFO  [Logger] Setting up the log file 
+2018-11-23 23:37:48,206 INFO  [Logger] Setting up the driver 
+2018-11-23 23:37:48,207 INFO  [OutLogger] Setting Up the Driver 
+2018-11-23 23:37:48,207 INFO  [Logger] Setting up the driver 
+2018-11-23 23:38:30,764 INFO  [OutLogger] Going to Launch the driver 
+2018-11-23 23:38:30,764 INFO  [Logger] Driver Launched successfully 
+2018-11-23 23:38:30,798 INFO  [Logger] Setting up the environment 
+2018-11-23 23:38:30,800 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-23 23:38:31,265 INFO  [Logger] Choosing the env prod 
+2018-11-23 23:40:07,961 INFO  [Logger] Setting up the log file 
+2018-11-23 23:40:07,965 INFO  [Logger] Setting up the driver 
+2018-11-23 23:40:07,965 INFO  [OutLogger] Setting Up the Driver 
+2018-11-23 23:40:07,965 INFO  [Logger] Setting up the driver 
+2018-11-23 23:40:38,993 INFO  [OutLogger] Going to Launch the driver 
+2018-11-23 23:40:38,993 INFO  [Logger] Driver Launched successfully 
+2018-11-23 23:40:39,009 INFO  [Logger] Setting up the environment 
+2018-11-23 23:40:39,010 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-23 23:40:39,676 INFO  [Logger] Choosing the env prod 
+2018-11-23 23:50:19,978 INFO  [Logger] Setting up the log file 
+2018-11-23 23:50:19,984 INFO  [Logger] Setting up the driver 
+2018-11-23 23:50:19,984 INFO  [OutLogger] Setting Up the Driver 
+2018-11-23 23:50:19,985 INFO  [Logger] Setting up the driver 
+2018-11-23 23:50:50,140 INFO  [Logger] Going to closedown 
+2018-11-23 23:50:54,599 INFO  [OutLogger] Going to Launch the driver 
+2018-11-23 23:50:54,599 INFO  [Logger] Driver Launched successfully 
+2018-11-23 23:50:54,612 INFO  [Logger] Setting up the environment 
+2018-11-23 23:50:54,613 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-23 23:50:55,217 INFO  [Logger] Choosing the env prod 
+2018-11-23 23:51:49,388 INFO  [Logger] Setting up the log file 
+2018-11-23 23:51:49,394 INFO  [Logger] Setting up the driver 
+2018-11-23 23:51:49,395 INFO  [OutLogger] Setting Up the Driver 
+2018-11-23 23:51:49,395 INFO  [Logger] Setting up the driver 
+2018-11-23 23:52:21,887 INFO  [OutLogger] Going to Launch the driver 
+2018-11-23 23:52:21,887 INFO  [Logger] Driver Launched successfully 
+2018-11-23 23:52:21,911 INFO  [Logger] Setting up the environment 
+2018-11-23 23:52:21,913 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-23 23:52:22,484 INFO  [Logger] Choosing the env prod 
+2018-11-24 00:02:50,526 INFO  [Logger] Setting up the log file 
+2018-11-24 00:02:50,530 INFO  [Logger] Setting up the driver 
+2018-11-24 00:02:50,531 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 00:02:50,531 INFO  [Logger] Setting up the driver 
+2018-11-24 00:03:18,129 INFO  [Logger] Going to closedown 
+2018-11-24 00:03:22,652 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 00:03:22,652 INFO  [Logger] Driver Launched successfully 
+2018-11-24 00:03:22,678 INFO  [Logger] Setting up the environment 
+2018-11-24 00:03:22,681 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 00:03:23,304 INFO  [Logger] Choosing the env prod 
+2018-11-24 00:04:43,493 INFO  [RetryExec] I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:4723: The target server failed to respond 
+2018-11-24 00:04:43,493 INFO  [RetryExec] Retrying request to {}->http://127.0.0.1:4723 
+2018-11-24 00:05:17,140 INFO  [Logger] Going to closedown 
+2018-11-24 16:17:42,061 INFO  [Logger] Setting up the log file 
+2018-11-24 16:17:42,061 INFO  [Logger] Setting up the driver 
+2018-11-24 16:17:42,094 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 16:17:42,094 INFO  [Logger] Setting up the driver 
+2018-11-24 16:18:19,913 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 16:18:19,913 INFO  [Logger] Driver Launched successfully 
+2018-11-24 16:18:19,960 INFO  [Logger] Setting up the environment 
+2018-11-24 16:18:19,975 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 16:18:20,533 INFO  [Logger] Choosing the env prod 
+2018-11-24 16:20:44,167 INFO  [Logger] Going to closedown 
+2018-11-24 17:33:33,569 INFO  [Logger] Setting up the log file 
+2018-11-24 17:33:33,575 INFO  [Logger] Setting up the driver 
+2018-11-24 17:33:33,575 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 17:33:33,575 INFO  [Logger] Setting up the driver 
+2018-11-24 17:34:03,813 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 17:34:03,814 INFO  [Logger] Driver Launched successfully 
+2018-11-24 17:34:03,840 INFO  [Logger] Setting up the environment 
+2018-11-24 17:34:03,842 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 17:34:04,444 INFO  [Logger] Choosing the env prod 
+2018-11-24 17:35:46,306 INFO  [Logger] Setting up the log file 
+2018-11-24 17:35:46,310 INFO  [Logger] Setting up the driver 
+2018-11-24 17:35:46,311 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 17:35:46,311 INFO  [Logger] Setting up the driver 
+2018-11-24 17:36:16,595 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 17:36:16,596 INFO  [Logger] Driver Launched successfully 
+2018-11-24 17:36:16,622 INFO  [Logger] Setting up the environment 
+2018-11-24 17:36:16,624 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 17:36:17,262 INFO  [Logger] Choosing the env prod 
+2018-11-24 17:37:27,748 INFO  [Logger] Setting up the log file 
+2018-11-24 17:37:27,753 INFO  [Logger] Setting up the driver 
+2018-11-24 17:37:27,754 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 17:37:27,754 INFO  [Logger] Setting up the driver 
+2018-11-24 17:37:58,445 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 17:37:58,445 INFO  [Logger] Driver Launched successfully 
+2018-11-24 17:37:58,460 INFO  [Logger] Setting up the environment 
+2018-11-24 17:37:58,461 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 17:37:59,069 INFO  [Logger] Choosing the env prod 
+2018-11-24 17:39:19,422 INFO  [Logger] Setting up the log file 
+2018-11-24 17:39:19,428 INFO  [Logger] Setting up the driver 
+2018-11-24 17:39:19,428 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 17:39:19,429 INFO  [Logger] Setting up the driver 
+2018-11-24 17:39:49,960 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 17:39:49,960 INFO  [Logger] Driver Launched successfully 
+2018-11-24 17:39:49,974 INFO  [Logger] Setting up the environment 
+2018-11-24 17:39:49,974 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 17:39:50,620 INFO  [Logger] Choosing the env prod 
+2018-11-24 17:50:29,608 INFO  [Logger] Setting up the log file 
+2018-11-24 17:50:29,617 INFO  [Logger] Setting up the driver 
+2018-11-24 17:50:29,617 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 17:50:29,617 INFO  [Logger] Setting up the driver 
+2018-11-24 17:50:57,278 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 17:50:57,278 INFO  [Logger] Driver Launched successfully 
+2018-11-24 17:50:57,293 INFO  [Logger] Setting up the environment 
+2018-11-24 17:50:57,299 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 17:50:57,905 INFO  [Logger] Choosing the env prod 
+2018-11-24 17:52:48,363 INFO  [RetryExec] I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4723: Software caused connection abort: recv failed 
+2018-11-24 17:52:48,363 INFO  [RetryExec] Retrying request to {}->http://127.0.0.1:4723 
+2018-11-24 17:53:42,692 INFO  [Logger] Going to closedown 
+2018-11-24 18:32:34,408 INFO  [Logger] Setting up the log file 
+2018-11-24 18:32:34,413 INFO  [Logger] Setting up the driver 
+2018-11-24 18:32:34,414 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 18:32:34,414 INFO  [Logger] Setting up the driver 
+2018-11-24 18:33:04,921 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 18:33:04,921 INFO  [Logger] Driver Launched successfully 
+2018-11-24 18:33:04,937 INFO  [Logger] Setting up the environment 
+2018-11-24 18:33:04,938 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 18:33:05,471 INFO  [Logger] Choosing the env prod 
+2018-11-24 18:34:37,606 INFO  [Logger] Going to closedown 
+2018-11-24 18:38:13,726 INFO  [Logger] Setting up the log file 
+2018-11-24 18:38:13,731 INFO  [Logger] Setting up the driver 
+2018-11-24 18:38:13,731 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 18:38:13,731 INFO  [Logger] Setting up the driver 
+2018-11-24 18:38:40,999 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 18:38:40,999 INFO  [Logger] Driver Launched successfully 
+2018-11-24 18:38:41,011 INFO  [Logger] Setting up the environment 
+2018-11-24 18:38:41,012 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 18:38:41,655 INFO  [Logger] Choosing the env prod 
+2018-11-24 18:40:12,927 INFO  [Logger] Going to closedown 
+2018-11-24 19:08:52,349 INFO  [Logger] Setting up the log file 
+2018-11-24 19:08:52,365 INFO  [Logger] Setting up the driver 
+2018-11-24 19:08:52,365 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 19:08:52,365 INFO  [Logger] Setting up the driver 
+2018-11-24 19:09:22,788 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 19:09:22,788 INFO  [Logger] Driver Launched successfully 
+2018-11-24 19:09:22,803 INFO  [Logger] Setting up the environment 
+2018-11-24 19:09:22,803 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 19:09:23,419 INFO  [Logger] Choosing the env prod 
+2018-11-24 19:11:20,523 INFO  [Logger] Setting up the log file 
+2018-11-24 19:11:20,523 INFO  [Logger] Setting up the driver 
+2018-11-24 19:11:20,523 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 19:11:20,523 INFO  [Logger] Setting up the driver 
+2018-11-24 19:11:47,790 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 19:11:47,790 INFO  [Logger] Driver Launched successfully 
+2018-11-24 19:11:47,805 INFO  [Logger] Setting up the environment 
+2018-11-24 19:11:47,805 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 19:11:48,457 INFO  [Logger] Choosing the env prod 
+2018-11-24 19:18:34,357 INFO  [Logger] Setting up the log file 
+2018-11-24 19:18:34,357 INFO  [Logger] Setting up the driver 
+2018-11-24 19:18:34,357 INFO  [OutLogger] Setting Up the Driver 
+2018-11-24 19:18:34,357 INFO  [Logger] Setting up the driver 
+2018-11-24 19:19:01,864 INFO  [OutLogger] Going to Launch the driver 
+2018-11-24 19:19:01,864 INFO  [Logger] Driver Launched successfully 
+2018-11-24 19:19:01,880 INFO  [Logger] Setting up the environment 
+2018-11-24 19:19:01,880 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-24 19:19:02,573 INFO  [Logger] Choosing the env prod 
+2018-11-24 19:24:18,700 INFO  [Logger] Going to closedown 
+2018-11-25 15:41:33,069 INFO  [Logger] Setting up the log file 
+2018-11-25 15:41:33,085 INFO  [Logger] Setting up the driver 
+2018-11-25 15:41:33,085 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 15:41:33,085 INFO  [Logger] Setting up the driver 
+2018-11-25 15:42:08,062 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 15:42:08,062 INFO  [Logger] Driver Launched successfully 
+2018-11-25 15:42:08,109 INFO  [Logger] Setting up the environment 
+2018-11-25 15:42:08,109 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 15:42:08,610 INFO  [Logger] Choosing the env prod 
+2018-11-25 15:55:10,953 INFO  [Logger] Setting up the log file 
+2018-11-25 15:55:10,954 INFO  [Logger] Setting up the driver 
+2018-11-25 15:55:10,954 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 15:55:10,954 INFO  [Logger] Setting up the driver 
+2018-11-25 15:55:41,761 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 15:55:41,761 INFO  [Logger] Driver Launched successfully 
+2018-11-25 15:55:41,776 INFO  [Logger] Setting up the environment 
+2018-11-25 15:55:41,776 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 15:55:42,347 INFO  [Logger] Choosing the env prod 
+2018-11-25 17:37:54,315 INFO  [Logger] Setting up the log file 
+2018-11-25 17:37:54,319 INFO  [Logger] Setting up the driver 
+2018-11-25 17:37:54,320 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 17:37:54,320 INFO  [Logger] Setting up the driver 
+2018-11-25 17:38:21,876 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 17:38:21,876 INFO  [Logger] Driver Launched successfully 
+2018-11-25 17:38:21,888 INFO  [Logger] Setting up the environment 
+2018-11-25 17:38:21,889 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 17:38:22,577 INFO  [Logger] Choosing the env prod 
+2018-11-25 17:40:23,518 INFO  [Logger] Going to closedown 
+2018-11-25 17:42:00,505 INFO  [Logger] Setting up the log file 
+2018-11-25 17:42:00,510 INFO  [Logger] Setting up the driver 
+2018-11-25 17:42:00,510 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 17:42:00,510 INFO  [Logger] Setting up the driver 
+2018-11-25 17:42:26,401 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 17:42:26,401 INFO  [Logger] Driver Launched successfully 
+2018-11-25 17:42:26,451 INFO  [Logger] Setting up the environment 
+2018-11-25 17:42:26,451 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 17:42:27,094 INFO  [Logger] Choosing the env prod 
+2018-11-25 17:46:40,799 INFO  [Logger] Setting up the log file 
+2018-11-25 17:46:40,799 INFO  [Logger] Setting up the driver 
+2018-11-25 17:46:40,799 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 17:46:40,799 INFO  [Logger] Setting up the driver 
+2018-11-25 17:47:06,562 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 17:47:06,562 INFO  [Logger] Driver Launched successfully 
+2018-11-25 17:47:06,584 INFO  [Logger] Setting up the environment 
+2018-11-25 17:47:06,587 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 17:47:07,197 INFO  [Logger] Choosing the env prod 
+2018-11-25 17:48:27,967 INFO  [Logger] Setting up the log file 
+2018-11-25 17:48:27,971 INFO  [Logger] Setting up the driver 
+2018-11-25 17:48:27,972 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 17:48:27,972 INFO  [Logger] Setting up the driver 
+2018-11-25 17:48:55,595 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 17:48:55,595 INFO  [Logger] Driver Launched successfully 
+2018-11-25 17:48:55,628 INFO  [Logger] Setting up the environment 
+2018-11-25 17:48:55,628 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 17:48:56,226 INFO  [Logger] Choosing the env prod 
+2018-11-25 18:15:01,506 INFO  [Logger] Setting up the log file 
+2018-11-25 18:15:01,506 INFO  [Logger] Setting up the driver 
+2018-11-25 18:15:01,507 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 18:15:01,507 INFO  [Logger] Setting up the driver 
+2018-11-25 18:15:28,542 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 18:15:28,542 INFO  [Logger] Driver Launched successfully 
+2018-11-25 18:15:28,543 INFO  [Logger] Setting up the environment 
+2018-11-25 18:15:28,543 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 18:15:29,266 INFO  [Logger] Choosing the env prod 
+2018-11-25 19:43:24,762 INFO  [Logger] Setting up the log file 
+2018-11-25 19:43:24,762 INFO  [Logger] Setting up the driver 
+2018-11-25 19:43:24,762 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 19:43:24,762 INFO  [Logger] Setting up the driver 
+2018-11-25 19:43:52,321 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 19:43:52,321 INFO  [Logger] Driver Launched successfully 
+2018-11-25 19:43:52,322 INFO  [Logger] Setting up the environment 
+2018-11-25 19:43:52,322 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 19:43:52,982 INFO  [Logger] Choosing the env prod 
+2018-11-25 20:00:13,074 INFO  [Logger] Setting up the log file 
+2018-11-25 20:00:13,097 INFO  [Logger] Setting up the driver 
+2018-11-25 20:00:13,103 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 20:00:13,103 INFO  [Logger] Setting up the driver 
+2018-11-25 20:00:41,734 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 20:00:41,734 INFO  [Logger] Driver Launched successfully 
+2018-11-25 20:00:41,745 INFO  [Logger] Setting up the environment 
+2018-11-25 20:00:41,759 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 20:00:42,324 INFO  [Logger] Choosing the env prod 
+2018-11-25 20:14:34,892 INFO  [Logger] Setting up the log file 
+2018-11-25 20:14:34,892 INFO  [Logger] Setting up the driver 
+2018-11-25 20:14:34,892 INFO  [OutLogger] Setting Up the Driver 
+2018-11-25 20:14:34,892 INFO  [Logger] Setting up the driver 
+2018-11-25 20:15:05,504 INFO  [OutLogger] Going to Launch the driver 
+2018-11-25 20:15:05,504 INFO  [Logger] Driver Launched successfully 
+2018-11-25 20:15:05,582 INFO  [Logger] Setting up the environment 
+2018-11-25 20:15:05,582 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-25 20:15:06,243 INFO  [Logger] Choosing the env prod 
+2018-11-28 16:54:20,419 INFO  [Logger] Setting up the log file 
+2018-11-28 16:54:20,463 INFO  [Logger] Setting up the driver 
+2018-11-28 16:54:20,494 INFO  [OutLogger] Setting Up the Driver 
+2018-11-28 16:54:20,494 INFO  [Logger] Setting up the driver 
+2018-11-28 16:58:13,737 INFO  [Logger] Setting up the log file 
+2018-11-28 16:58:13,753 INFO  [Logger] Setting up the driver 
+2018-11-28 16:58:13,753 INFO  [OutLogger] Setting Up the Driver 
+2018-11-28 16:58:13,753 INFO  [Logger] Setting up the driver 
+2018-11-28 16:59:43,033 INFO  [Logger] Setting up the log file 
+2018-11-28 16:59:43,049 INFO  [Logger] Setting up the driver 
+2018-11-28 16:59:43,049 INFO  [OutLogger] Setting Up the Driver 
+2018-11-28 16:59:43,049 INFO  [Logger] Setting up the driver 
+2018-11-28 17:00:06,412 INFO  [OutLogger] Going to Launch the driver 
+2018-11-28 17:00:06,412 INFO  [Logger] Driver Launched successfully 
+2018-11-28 17:00:06,459 INFO  [Logger] Setting up the environment 
+2018-11-28 17:00:06,459 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-28 17:00:07,024 INFO  [Logger] Choosing the env prod 
+2018-11-28 17:09:08,904 INFO  [Logger] Setting up the log file 
+2018-11-28 17:09:08,944 INFO  [Logger] Setting up the driver 
+2018-11-28 17:09:08,958 INFO  [OutLogger] Setting Up the Driver 
+2018-11-28 17:09:08,958 INFO  [Logger] Setting up the driver 
+2018-11-28 17:09:46,049 INFO  [OutLogger] Going to Launch the driver 
+2018-11-28 17:09:46,049 INFO  [Logger] Driver Launched successfully 
+2018-11-28 17:09:46,066 INFO  [Logger] Setting up the environment 
+2018-11-28 17:09:46,073 INFO  [Logger] Setting prod Environment as a default environment 
+2018-11-28 17:09:46,447 INFO  [Logger] Choosing the env prod 
+2018-11-28 17:11:58,874 INFO  [Logger] Going to closedown 
+2018-12-03 12:05:17,128 INFO  [Logger] Setting up the log file 
+2018-12-03 12:05:17,155 INFO  [Logger] Setting up the driver 
+2018-12-03 12:05:17,156 INFO  [OutLogger] Setting Up the Driver 
+2018-12-03 12:05:17,156 INFO  [Logger] Setting up the driver 
+2018-12-03 12:06:56,343 INFO  [Logger] Setting up the log file 
+2018-12-03 12:06:56,347 INFO  [Logger] Setting up the driver 
+2018-12-03 12:06:56,348 INFO  [OutLogger] Setting Up the Driver 
+2018-12-03 12:06:56,348 INFO  [Logger] Setting up the driver 
+2018-12-05 18:26:15,127 INFO  [Logger] Setting up the log file 
+2018-12-05 18:26:15,147 INFO  [Logger] Setting up the driver 
+2018-12-05 18:26:15,148 INFO  [OutLogger] Setting Up the Driver 
+2018-12-05 18:26:15,148 INFO  [Logger] Setting up the driver 
+2018-12-05 18:26:49,657 INFO  [OutLogger] Going to Launch the driver 
+2018-12-05 18:26:49,658 INFO  [Logger] Driver Launched successfully 
+2018-12-05 18:26:49,702 INFO  [Logger] Setting up the environment 
+2018-12-05 18:26:49,749 INFO  [Logger] Setting prod Environment as a default environment 
+2018-12-05 18:26:50,426 INFO  [Logger] Choosing the env prod 
+2018-12-05 18:42:34,951 INFO  [Logger] Setting up the log file 
+2018-12-05 18:42:34,998 INFO  [Logger] Setting up the driver 
+2018-12-05 18:42:35,014 INFO  [OutLogger] Setting Up the Driver 
+2018-12-05 18:42:35,014 INFO  [Logger] Setting up the driver 
+2018-12-05 18:43:08,905 INFO  [OutLogger] Going to Launch the driver 
+2018-12-05 18:43:08,905 INFO  [Logger] Driver Launched successfully 
+2018-12-05 18:43:08,936 INFO  [Logger] Setting up the environment 
+2018-12-05 18:43:08,952 INFO  [Logger] Setting prod Environment as a default environment 
+2018-12-05 18:43:09,535 INFO  [Logger] Choosing the env prod 
+2018-12-05 18:47:27,883 INFO  [Logger] Going to closedown 
+2019-01-11 19:02:27,110 INFO  [Logger] Setting up the log file 
+2019-01-11 19:02:27,362 INFO  [Logger] Setting up the driver 
+2019-01-11 19:02:27,382 INFO  [OutLogger] Setting Up the Driver 
+2019-01-11 19:02:27,383 INFO  [Logger] Setting up the driver 
+2019-01-11 19:03:19,529 INFO  [OutLogger] Going to Launch the driver 
+2019-01-11 19:03:19,529 INFO  [Logger] Driver Launched successfully 
+2019-01-11 19:03:19,549 INFO  [Logger] Setting up the environment 
+2019-01-11 19:03:19,580 INFO  [Logger] Setting prod Environment as a default environment 
+2019-01-11 19:03:20,603 INFO  [Logger] Choosing the env prod 
+2019-01-11 19:04:40,232 INFO  [Logger] Going to closedown 
+2019-01-11 19:13:28,859 INFO  [Logger] Setting up the log file 
+2019-01-11 19:13:28,865 INFO  [Logger] Setting up the driver 
+2019-01-11 19:13:28,866 INFO  [OutLogger] Setting Up the Driver 
+2019-01-11 19:13:28,866 INFO  [Logger] Setting up the driver 
+2019-01-11 19:14:12,730 INFO  [OutLogger] Going to Launch the driver 
+2019-01-11 19:14:12,731 INFO  [Logger] Driver Launched successfully 
+2019-01-11 19:14:12,782 INFO  [Logger] Setting up the environment 
+2019-01-11 19:14:12,794 INFO  [Logger] Setting prod Environment as a default environment 
+2019-01-11 19:14:13,473 INFO  [Logger] Choosing the env prod 
+2019-01-11 19:21:08,664 INFO  [Logger] Going to closedown 
+2019-01-11 19:22:24,204 INFO  [Logger] Setting up the log file 
+2019-01-11 19:22:24,214 INFO  [Logger] Setting up the driver 
+2019-01-11 19:22:24,220 INFO  [OutLogger] Setting Up the Driver 
+2019-01-11 19:22:24,220 INFO  [Logger] Setting up the driver 
+2019-01-11 19:24:02,113 INFO  [Logger] Setting up the log file 
+2019-01-11 19:24:02,118 INFO  [Logger] Setting up the driver 
+2019-01-11 19:24:02,118 INFO  [OutLogger] Setting Up the Driver 
+2019-01-11 19:24:02,118 INFO  [Logger] Setting up the driver 
+2019-01-11 19:24:41,040 INFO  [OutLogger] Going to Launch the driver 
+2019-01-11 19:24:41,040 INFO  [Logger] Driver Launched successfully 
+2019-01-11 19:24:41,057 INFO  [Logger] Setting up the environment 
+2019-01-11 19:24:41,069 INFO  [Logger] Setting prod Environment as a default environment 
+2019-01-11 19:24:45,016 INFO  [Logger] Choosing the env prod 

@@ -1,7 +1,14 @@
 package Framework;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.UUID;
+
+import org.apache.commons.io.FileUtils;
 import org.junit.Assert;
+import pageObjects.LoginPageLink;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.log4testng.Logger;
@@ -11,41 +18,36 @@ import io.appium.java_client.android.AndroidDriver;
 
 public class LoginPage {
 	
-	public static AndroidDriver loginAction(AndroidDriver driver, String username, String password) {
+	public static AndroidDriver loginAction(AndroidDriver driver, String username, String password) throws IOException {
 		
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		
 		//log.info("Seting up the username");
 		
-		MobileElement uName = (MobileElement) wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("username"))));
+		MobileElement uname = (MobileElement )wait.until(ExpectedConditions.visibilityOf(LoginPageLink.username(driver)));
 		
-		Assert.assertTrue(uName.isDisplayed());
+		Assert.assertTrue(uname.isDisplayed());
 		
-		uName.sendKeys(username);
+		uname.sendKeys(username);
 		
-		MobileElement pWord = (MobileElement) wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("password"))));
+		driver = Screenshot.takeScreenshot(driver);
+		
+		MobileElement pWord = (MobileElement) wait.until(ExpectedConditions.visibilityOf(LoginPageLink.password(driver)));
 		
 		Assert.assertTrue(pWord.isDisplayed());
 		
 		pWord.sendKeys(password);
 		
-		MobileElement loginBtn = (MobileElement) wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.className("android.widget.Button"))));
+		driver.hideKeyboard();
+		
+		driver = Screenshot.takeScreenshot(driver);
+		
+		MobileElement loginBtn = (MobileElement) wait.until(ExpectedConditions.visibilityOf(LoginPageLink.loginButton(driver)));
 		
 		Assert.assertTrue(loginBtn.isDisplayed());
 		
 		loginBtn.click();
 		
-		MobileElement account_icon = (MobileElement) wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.xpath("//android.view.ViewGroup[@text='Account']"))));
-		
-		Assert.assertTrue(account_icon.isDisplayed());
-		
-		account_icon.click();
-		
-		MobileElement signOutBtn = (MobileElement) wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("com.harman.spark:id/account_sign_out"))));
-		
-		Assert.assertTrue(signOutBtn.isDisplayed());
-		
-		signOutBtn.click();
 		return driver;
 	}
 

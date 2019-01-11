@@ -16,14 +16,15 @@ public class Driver {
 		OutLogger.info("Setting Up the Driver");
 		log.info("Setting up the driver");
 		
-		capabilities.setCapability("deviceName", "Huawei P20 Lite");
+		capabilities.setCapability("deviceName", "Motorolla Nexus 6");
 		capabilities.setCapability(CapabilityType.PLATFORM, "Android");
-		capabilities.setCapability("platformVersion", "8.0.0");
+		capabilities.setCapability("platformVersion", "7.1.1");
 		capabilities.setCapability("platformName", "Android");
 		capabilities.setCapability(AndroidMobileCapabilityType.ENABLE_PERFORMANCE_LOGGING,true);
 		capabilities.setCapability("autoGrantPermissions", true);
-		File file = new File("C:\\Apllications and installer\\APK","app-spark-qaRelease.apk");
+		File file = new File("APKFile","app-spark-qaRelease.apk");
 		capabilities.setCapability("app", file);
+		//capabilities.setCapability("appWaitActivity", "com.tantalumcorporation.phoenix.common.environment.EnvironmentActivity");
 		capabilities.setCapability("appPackage", "com.harman.spark");
 		capabilities.setCapability("appActivity", "com.tantalumcorporation.phoenix.common.environment.EnvironmentActivity");
 		capabilities.setCapability("clearSystemFiles", "true");
